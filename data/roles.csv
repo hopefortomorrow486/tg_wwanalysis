@@ -1,0 +1,43 @@
+name,abbre_name,act,team
+a Villager,"['vg', 'farmer', 'lowly']",no,vg
+a Werewolf,"['ww', 'wolf']",night,ww
+the Drunk,"['drunk', 'alcohol']",no,vg
+the Seer,['seer'],night,vg
+the Cursed,['cursed'],no,vg
+the Harlot,"['harlot', 'hoe']",night,vg
+the Beholder,"['beholder', 'bh']",no,vg
+the Gunner,['gunner'],day,vg
+the Traitor,['traitor'],no,vg
+the Guardian Angel,"['guardian angel', 'ga', 'angel']",night,vg
+the Detective,"['detective', 'dete', 'det']",day,vg
+the Apprentice Seer,"['apprentice seer', 'app seer', 'app see', 'app']",no,vg
+a Cultist,"['cultist', 'cult']",night,cult
+the Cultist Hunter,"['cultist hunter', 'ch']",night,vg
+the Wild Child,"['wild child', 'wc']",ota,vg
+the Fool,"['fool', 'uno']",night,vg
+a Mason,['mason'],no,vg
+the Doppelganger,"['doppelganger', 'dg']",ota,other
+Cupid,['cupid'],ota,vg
+the Hunter,['hunter'],no,vg
+the Serial Killer,"['serial killer', 'sk']",night,other
+the Tanner,"['tanner', 'red']",no,other
+the Mayor,"['mayor', 'mayo']",day,vg
+the Prince,"['prince', 'princess', 'crown']",no,vg
+the Sorcerer,"['sorcerer', 'sorc']",night,ww
+the Clumsy Guy,"['clumsy guy', 'clumsy', 'cg']",no,vg
+the Blacksmith,"['blacksmity', 'bs']",day,vg
+the Alpha Wolf,"['alpha wolf', 'alpha']",night,ww
+the Wolf Cub,"['wolf cub', 'cub']",night,ww
+the Sandman,"['sandman', 'sing']",day,vg
+the Oracle,"['oracle', 'oralb', 'oral b', 'ora']",night,vg
+the WolfMan,"['wolfman', 'wm']",no,vg
+the Lycan,['lycan'],night,ww
+the Pacifist,"['pacifist', 'paci', 'burden']",day,vg
+the Wise Elder,"['wise elder', 'we', 'wise']",no,vg
+the Thief,['thief'],ota,other
+the Troublemaker,"['troublemaker', 'tm']",day,vg
+the Chemist,"['chemist', 'chem']",night,vg
+the Snow Wolf,"['snow wolf', 'snow']",night,ww
+the Grave Digger,"['grave digger', 'gd']",no,vg
+the Arsonist,"['arsonist', 'arso']",night,other
+the Augur,"['augur', 'bird']",no,vg
